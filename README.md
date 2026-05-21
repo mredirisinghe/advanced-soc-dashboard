@@ -22,7 +22,6 @@ A Python-based Security Operations Center (SOC) monitoring platform that perform
 
 ## 🎥 SOC Dashboard Demo
 
-> Replace the GIF below with your own demo GIF.
 
 <img src="demo/soc-demo.gif" width="900">
 
@@ -128,7 +127,7 @@ advanced-soc/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/advanced-soc-dashboard.git
+git clone https://github.com/mredirisinghe/advanced-soc-dashboard.git
 cd advanced-soc-dashboard
 ```
 
@@ -186,22 +185,6 @@ http://localhost:5000
 
 ---
 
-# 🎥 Creating Demo GIF from Video
-
-## Install FFmpeg
-
-```bash
-sudo apt install ffmpeg -y
-```
-
----
-
-```text
-demo/soc-demo.gif
-```
-
-
-
 # 💼 LinkedIn Project Title
 
 > Advanced SOC Analyst Dashboard with Real-Time Threat Detection
@@ -210,7 +193,7 @@ demo/soc-demo.gif
 
 # 👨‍💻 Author
 
-Your Name
+M.P.J.K Edirisinghe
 Cybersecurity Enthusiast | SOC Analyst | Python Developer
 
 ---
